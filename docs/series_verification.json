@@ -1,0 +1,30 @@
+{
+  "files": 7,
+  "timesteps": 7,
+  "timestamps": [
+    "2025-02-18 12:00:00 UTC",
+    "2025-02-18 18:00:00 UTC",
+    "2025-02-19 00:00:00 UTC",
+    "2025-02-19 06:00:00 UTC",
+    "2025-02-19 12:00:00 UTC",
+    "2025-02-19 18:00:00 UTC",
+    "2025-02-20 00:00:00 UTC"
+  ],
+  "domain": "d01",
+  "scalar_animation": true,
+  "wind_animation": true,
+  "point_time_series": [
+    0.07922520488500595,
+    0.12416382133960724,
+    0.1736718863248825,
+    0.27370744943618774,
+    0.31877294182777405,
+    0.33559924364089966,
+    0.11501539498567581
+  ],
+  "panels_reopened": true,
+  "layout_restored_after_restart": true,
+  "demo_data_sha256_unchanged": true,
+  "screenshot": "C:\\LAVin\\LAVinApp\\docs\\series_screenshot.png",
+  "method": "Automated Qt actions; file chooser selection supplied programmatically"
+}
